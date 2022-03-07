@@ -1,1 +1,1 @@
-*	s	\S, \C, \H, \O, \O, \L	printf("School")
+0	string	SCHOOL	printf("School")
